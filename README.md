@@ -1,18 +1,6 @@
 # elasticsearch-plugin
-자바카페 Elasticsearch 플러그인
+>### korea doo analyzer
 
-[elasticsearch-plugin](https://github.com/javacafe-project/elasticsearch-plugin)은 사용자가 한글을 검색하기 쉽게 만들어진 플러그인 입니다.
-
-> 링크 다운로드
->
->[6.6.0](https://github.com/javacafe-project/elasticsearch-plugin/releases/tag/v6.6.0)
->
->[6.5.4](https://github.com/javacafe-project/elasticsearch-plugin/releases/tag/v6.5.4)
-
-# 설치방법
->~~~~
->elasticsearch-plugin install https://github.com/javacafe-project/elastic-book-etc/raw/master/plugin/javacafe-analyzer-6.4.3.zip
->
 
 # 제공기능
 
