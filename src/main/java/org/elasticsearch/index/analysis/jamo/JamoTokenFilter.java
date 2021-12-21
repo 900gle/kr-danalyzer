@@ -10,7 +10,7 @@ import org.elasticsearch.index.common.parser.KoreanJamoParser;
 /**
  * 한글 자모 분석 필터
  *
- * @author hrkim
+ * @author doo
  *
  */
 public final class JamoTokenFilter extends TokenFilter {

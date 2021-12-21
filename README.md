@@ -1,5 +1,5 @@
 # elasticsearch-plugin
-### korea doo analyzer
+### korean doo analyzer
 
 
 # 제공기능
