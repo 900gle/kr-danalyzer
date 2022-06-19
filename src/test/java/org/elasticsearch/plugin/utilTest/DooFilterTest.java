@@ -10,7 +10,7 @@ public class DooFilterTest {
     @Test
     public void dooConverter(){
 
-        String string= "gg";
+        String string= "doo";
         CustomConverter customConverter = new CustomConverter();
         String word = customConverter.convert(string);
 

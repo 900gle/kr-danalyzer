@@ -3,7 +3,7 @@ package org.elasticsearch.index.common.type;
 /**
  * 한글 구성요소 기본 타입
  *
- * @author hrkim
+ * @author doo
  *
  */
 public enum CodeType {

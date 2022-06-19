@@ -6,7 +6,7 @@ import org.elasticsearch.index.common.util.JamoUtil;
 /**
  * 한글 기본 Parser
  *
- * @author hrkim
+ * @author doo
  *
  */
 public abstract class AbstractKoreanParser {
