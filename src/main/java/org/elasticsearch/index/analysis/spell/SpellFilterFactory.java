@@ -10,7 +10,7 @@ public class SpellFilterFactory extends AbstractTokenFilterFactory {
 
     
     public SpellFilterFactory(IndexSettings indexSettings, Environment env, String name, Settings settings) {
-        super(indexSettings, name, settings);
+        super(name, settings);
     }
     
 

@@ -10,7 +10,7 @@ public class ChosungTokenFilterFactory extends AbstractTokenFilterFactory {
 
     
     public ChosungTokenFilterFactory(IndexSettings indexSettings, Environment env, String name, Settings settings) {
-        super(indexSettings, name, settings);
+        super(name, settings);
     }
     
 

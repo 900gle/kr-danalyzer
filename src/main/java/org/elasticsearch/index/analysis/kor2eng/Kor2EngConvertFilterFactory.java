@@ -11,7 +11,7 @@ public class Kor2EngConvertFilterFactory extends AbstractTokenFilterFactory {
 
     
     public Kor2EngConvertFilterFactory(IndexSettings indexSettings, Environment env , String name, Settings settings) {
-        super(indexSettings, name, settings);
+        super(name, settings);
     }
     
 

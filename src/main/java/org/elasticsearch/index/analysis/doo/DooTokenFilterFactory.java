@@ -10,7 +10,7 @@ public class DooTokenFilterFactory extends AbstractTokenFilterFactory {
 
 
     public DooTokenFilterFactory(IndexSettings indexSettings, Environment env, String name, Settings settings) {
-        super(indexSettings, name, settings);
+        super(name, settings);
     }
     
 

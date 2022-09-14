@@ -12,8 +12,7 @@
 
     <!-- 로컬에서는 테스트 문제로 6.2.2를 사용하자 -->
     <properties>
-        <elasticsearch.version>7.15.1</elasticsearch.version>
-        <!-- 		<elasticsearch.version>6.2.2</elasticsearch.version> -->
+        <elasticsearch.version>8.4.1</elasticsearch.version>
         <lucene.version>8.0.0</lucene.version>
     </properties>
 
